@@ -1,0 +1,23 @@
+Public IPv4 Address Ranges
+
+	•	1.0.0.0 to 9.255.255.255
+	•	11.0.0.0 to 126.255.255.255
+	•	128.0.0.0 to 223.255.255.255
+
+Reserved Private IPv4 Addresses (not public):
+
+	•	10.0.0.0 to 10.255.255.255
+	•	172.16.0.0 to 172.31.255.255
+	•	192.168.0.0 to 192.168.255.255
+
+Special-use IPv4 Addresses:
+
+	•	0.0.0.0 to 0.255.255.255 (Current network)
+	•	127.0.0.0 to 127.255.255.255 (Loopback)
+	•	169.254.0.0 to 169.254.255.255 (Link-local)
+	•	224.0.0.0 to 239.255.255.255 (Multicast)
+	•	240.0.0.0 to 255.255.255.255 (Reserved for future use)
+
+Public IPv6 Address Range
+
+IPv6 addresses are 128-bit addresses and offer a vastly larger address space than IPv4. The allocation of public IPv6 addresses is simpler, as the entire range is available for public addressing, except for a few reserved and special-use ranges.
